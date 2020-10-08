@@ -59,7 +59,7 @@ paginate = 10
     url = "/tracks/"
 
 [[menu.main]]
-    name = "Trainings"
+    name = "Training"
     identifier = "training"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 4
